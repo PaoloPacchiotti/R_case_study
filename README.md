@@ -8,5 +8,4 @@ acknowledgment and authorship data from five analytic philosophy journals
 ## Contents
 - `Supplementary_materials.R` — full commented R script with all analyses
 - `Acknowledgments_documentation.zip` — raw data used in the analysis
-- `pp_presentation.pdf` — project presentation slides
 
